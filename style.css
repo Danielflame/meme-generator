@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hidden{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+
+
+img{
+    margin-bottom: 5%;
+}
+
+
+#generate{
+    padding: 9px 25px;
+    background-color: transparent;
+    border: 1px solid rgb(151, 138, 138);
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    width: 40%;
+    margin-bottom: 5%;
+}
